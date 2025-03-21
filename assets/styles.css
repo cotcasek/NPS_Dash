@@ -1,0 +1,151 @@
+/* styles.css */
+
+
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@400;700&display=swap');
+
+
+
+body {
+    font-family: 'Arial', sans-serif;
+    color: #09BC8A;
+    background-color: #004346;
+}
+#siteBanner {
+    font-family: "Cabin Sketch", sans-serif;
+    background-color: #D17A22;
+    color: #4C061D;
+    text-align: center;
+    font-size: 2.7rem;
+    padding:.25rem;
+/*    border: 2px solid blue;*/
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 2px 2px 10px rgba(0,0,0,0.2) 
+}
+#overviewHolder{
+    text-align: right;
+}
+#overviewText{
+    text-align: left;
+    font-weight: bold;
+    padding: 20px;
+}
+
+
+/* *******ROW 1 OF DATA******** */
+#mapAndFacts{
+    display: flex;
+    justify-content: flex-start; /* Align items to the start */
+    align-items: top; /* Align items vertically */
+    gap: 20px; /* Optional: adds space between columns */
+}
+
+#mapTitle, #mapSelectorTitle {
+/*    height: 2rem;*/
+    text-align: center;
+/*    border: 2px solid blue;*/
+}
+
+#mapCol {
+    width: 61%; 
+    padding: 1%;
+    margin:.5%;
+    display: inline-block;
+    background-color: #004346;
+/*    border: 2px solid blue;*/
+}
+
+#mapSelectCol {
+    width: 30%; 
+    padding: 1%;
+    margin:.5%;
+    display: inline-block;
+    background-color: #004346;
+/*    border: 2px solid blue;*/
+}
+
+
+#parkMap {
+    height: 87.55%;
+    width: 100%;
+/*    border: 2px solid blue;*/
+/*    background-color: lightgray;*/
+}
+
+#map{
+   display: flex;
+    justify-content: flex-start; /* Align items to the start */
+    align-items: center; 
+}
+#park-stats {
+    padding: "0";
+    margin: "0";
+/*    border: 2px solid #9A8873;*/
+}
+
+#park-activities {
+    padding: 10px;
+    margin: "0";
+/*    border: 2px solid #9A8873;*/
+}
+/* ************* ROW 2 OF DATA **************** */
+#attendanceCharts{
+    display: flex;
+    justify-content: flex-start; /* Align items to the start */
+    align-items: top; /* Align items vertically */
+    gap: 20px; /* Optional: adds space between columns */
+
+}
+#monthlyHolder {
+    width: 47%; 
+    padding: 1%;
+    margin:.5%;
+    display: inline-block;
+    background-color: #4C2B36;
+;
+/*    border: 2px solid #9A8873;*/
+}
+
+#annualHolder{
+    width: 47%; 
+    padding: 1%;
+    margin:.5%;
+    display: inline-block;
+    background-color: #4C2B36;
+/*    border: 2px solid #9A8873;*/
+}
+
+/* **************** ROW 3 OF DATA ******************* */
+#sizeAndScatterRow{
+    display: flex;
+    justify-content: flex-start; /* Align items to the start */
+    align-items: top; /* Align items vertically */
+    gap: 20px; /* Optional: adds space between columns */
+}
+#scatterSelectColumn {
+    width: 13%; 
+    padding: 1%;
+    margin:.5%;
+    display: inline-block;
+    background-color: #004346;
+/*    border: 2px solid #9A8873;*/
+}
+#scatterColumn {
+    width: 40%; 
+    padding: 1%;
+    margin:.5%;
+    display: inline-block;
+    background-color: #4C2B36;
+/*    border: 2px solid #9A8873;*/
+}
+#sizeChartColumn {
+    width: 40%; 
+    padding: 1%;
+    margin:.5%;
+    display: inline-block;
+    background-color: #4C2B36;
+/*    border: 2px solid #9A8873;*/
+}
+
+
+

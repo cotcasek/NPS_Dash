@@ -1,0 +1,1950 @@
+,Unnamed: 0,code,Feature Name
+0,0,ALLP,Select a park for feature details.
+15,15,ACAD,Arts and Culture
+16,16,ACAD,Cultural Demonstrations
+17,17,ACAD,Astronomy
+18,18,ACAD,Stargazing
+19,19,ACAD,Biking
+20,20,ACAD,Boating
+21,21,ACAD,Camping
+22,22,ACAD,Group Camping
+23,23,ACAD,Climbing
+24,24,ACAD,Rock Climbing
+25,25,ACAD,Compass and GPS
+26,26,ACAD,Geocaching
+27,27,ACAD,Fishing
+28,28,ACAD,Freshwater Fishing
+29,29,ACAD,Fly Fishing
+30,30,ACAD,Saltwater Fishing
+31,31,ACAD,Food
+32,32,ACAD,Picnicking
+33,33,ACAD,Guided Tours
+34,34,ACAD,Bus/Shuttle Guided Tour
+35,35,ACAD,Boat Tour
+36,36,ACAD,Hands-On
+37,37,ACAD,Citizen Science
+38,38,ACAD,Hiking
+39,39,ACAD,Front-Country Hiking
+40,40,ACAD,Horse Trekking
+41,41,ACAD,Horseback Riding
+42,42,ACAD,Ice Skating
+43,43,ACAD,Paddling
+44,44,ACAD,Canoeing
+45,45,ACAD,Kayaking
+46,46,ACAD,Stand Up Paddleboarding
+47,47,ACAD,Junior Ranger Program
+48,48,ACAD,Skiing
+49,49,ACAD,Cross-Country Skiing
+50,50,ACAD,Snow Play
+51,51,ACAD,Snowmobiling
+52,52,ACAD,Snowshoeing
+53,53,ACAD,Swimming
+54,54,ACAD,Freshwater Swimming
+55,55,ACAD,Saltwater Swimming
+56,56,ACAD,Wildlife Watching
+57,57,ACAD,Birdwatching
+58,58,ACAD,Park Film
+59,59,ACAD,Shopping
+60,60,ACAD,Bookstore and Park Store
+367,367,ARPA,Arts and Culture
+368,368,ARPA,Astronomy
+369,369,ARPA,Stargazing
+370,370,ARPA,Biking
+371,371,ARPA,Camping
+372,372,ARPA,Backcountry Camping
+373,373,ARPA,Car or Front Country Camping
+374,374,ARPA,Group Camping
+375,375,ARPA,Canyoneering
+376,376,ARPA,Climbing
+377,377,ARPA,Rock Climbing
+378,378,ARPA,Guided Tours
+379,379,ARPA,Hiking
+380,380,ARPA,Horse Trekking
+381,381,ARPA,Horseback Riding
+382,382,ARPA,Junior Ranger Program
+383,383,ARPA,Shopping
+384,384,ARPA,Bookstore and Park Store
+465,465,BADL,Auto and ATV
+466,466,BADL,Scenic Driving
+467,467,BADL,Astronomy
+468,468,BADL,Biking
+469,469,BADL,Camping
+470,470,BADL,Backcountry Camping
+471,471,BADL,Car or Front Country Camping
+472,472,BADL,Horse Camping (see also Horse/Stock Use)
+473,473,BADL,Compass and GPS
+474,474,BADL,Food
+475,475,BADL,Hiking
+476,476,BADL,Horse Trekking
+477,477,BADL,Horse Camping (see also camping)
+478,478,BADL,Horseback Riding
+479,479,BADL,Junior Ranger Program
+480,480,BADL,Wildlife Watching
+481,481,BADL,Birdwatching
+482,482,BADL,Park Film
+483,483,BADL,Shopping
+484,484,BADL,Bookstore and Park Store
+485,485,BADL,Gift Shop and Souvenirs
+553,553,BIBE,Auto and ATV
+554,554,BIBE,Scenic Driving
+555,555,BIBE,Astronomy
+556,556,BIBE,Stargazing
+557,557,BIBE,Biking
+558,558,BIBE,Camping
+559,559,BIBE,Backcountry Camping
+560,560,BIBE,Food
+561,561,BIBE,Guided Tours
+562,562,BIBE,Self-Guided Tours - Walking
+563,563,BIBE,Self-Guided Tours - Auto
+564,564,BIBE,Hiking
+565,565,BIBE,Backcountry Hiking
+566,566,BIBE,Front-Country Hiking
+567,567,BIBE,Paddling
+568,568,BIBE,Canoeing
+569,569,BIBE,Canoe or Kayak Camping
+570,570,BIBE,Kayaking
+571,571,BIBE,Junior Ranger Program
+572,572,BIBE,Wildlife Watching
+573,573,BIBE,Birdwatching
+574,574,BIBE,Park Film
+575,575,BIBE,Shopping
+576,576,BIBE,Bookstore and Park Store
+740,740,BISC,Boating
+741,741,BISC,Motorized Boating
+742,742,BISC,Sailing
+743,743,BISC,Boat Tour
+744,744,BISC,Camping
+745,745,BISC,Fishing
+746,746,BISC,Guided Tours
+747,747,BISC,Boat Tour
+748,748,BISC,Paddling
+749,749,BISC,Canoeing
+750,750,BISC,Kayaking
+751,751,BISC,Stand Up Paddleboarding
+752,752,BISC,Junior Ranger Program
+753,753,BISC,SCUBA Diving
+754,754,BISC,Snorkeling
+755,755,BISC,Swimming
+756,756,BISC,Saltwater Swimming
+757,757,BISC,Wildlife Watching
+758,758,BISC,Birdwatching
+759,759,BISC,Park Film
+760,760,BISC,Museum Exhibits
+761,761,BISC,Shopping
+762,762,BISC,Bookstore and Park Store
+763,763,BISC,Gift Shop and Souvenirs
+764,764,BLCA,Astronomy
+765,765,BLCA,Stargazing
+766,766,BLCA,Camping
+767,767,BLCA,Backcountry Camping
+768,768,BLCA,Car or Front Country Camping
+769,769,BLCA,RV Camping
+770,770,BLCA,Climbing
+771,771,BLCA,Rock Climbing
+772,772,BLCA,Fishing
+773,773,BLCA,Fly Fishing
+774,774,BLCA,Hiking
+775,775,BLCA,Backcountry Hiking
+776,776,BLCA,Front-Country Hiking
+777,777,BLCA,Horse Trekking
+778,778,BLCA,Horseback Riding
+779,779,BLCA,Paddling
+780,780,BLCA,Kayaking
+781,781,BLCA,Junior Ranger Program
+782,782,BLCA,Skiing
+783,783,BLCA,Cross-Country Skiing
+784,784,BLCA,Snowshoeing
+785,785,BLCA,Wildlife Watching
+786,786,BLCA,Birdwatching
+787,787,BLCA,Park Film
+788,788,BLCA,Shopping
+789,789,BLCA,Bookstore and Park Store
+887,887,BRCA,Astronomy
+888,888,BRCA,Stargazing
+889,889,BRCA,Biking
+890,890,BRCA,Road Biking
+891,891,BRCA,Camping
+892,892,BRCA,Backcountry Camping
+893,893,BRCA,Car or Front Country Camping
+894,894,BRCA,Group Camping
+895,895,BRCA,RV Camping
+896,896,BRCA,Food
+897,897,BRCA,Dining
+898,898,BRCA,Picnicking
+899,899,BRCA,Guided Tours
+900,900,BRCA,Self-Guided Tours - Auto
+901,901,BRCA,Hands-On
+902,902,BRCA,Citizen Science
+903,903,BRCA,Hiking
+904,904,BRCA,Backcountry Hiking
+905,905,BRCA,Front-Country Hiking
+906,906,BRCA,Horse Trekking
+907,907,BRCA,Junior Ranger Program
+908,908,BRCA,Skiing
+909,909,BRCA,Cross-Country Skiing
+910,910,BRCA,Snowshoeing
+911,911,BRCA,Wildlife Watching
+912,912,BRCA,Birdwatching
+913,913,BRCA,Park Film
+914,914,BRCA,Museum Exhibits
+915,915,BRCA,Shopping
+916,916,BRCA,Bookstore and Park Store
+1019,1019,CANY,Astronomy
+1020,1020,CANY,Stargazing
+1021,1021,CANY,Biking
+1022,1022,CANY,Boating
+1023,1023,CANY,Camping
+1024,1024,CANY,Backcountry Camping
+1025,1025,CANY,Car or Front Country Camping
+1026,1026,CANY,Group Camping
+1027,1027,CANY,Climbing
+1028,1028,CANY,Rock Climbing
+1029,1029,CANY,Guided Tours
+1030,1030,CANY,Boat Tour
+1031,1031,CANY,Hiking
+1032,1032,CANY,Horse Trekking
+1033,1033,CANY,Horseback Riding
+1034,1034,CANY,Paddling
+1035,1035,CANY,Canoe or Kayak Camping
+1036,1036,CANY,Whitewater Rafting
+1037,1037,CANY,Junior Ranger Program
+1038,1038,CANY,Park Film
+1039,1039,CANY,Shopping
+1040,1040,CANY,Bookstore and Park Store
+1151,1151,CARE,Arts and Culture
+1152,1152,CARE,Cultural Demonstrations
+1153,1153,CARE,Astronomy
+1154,1154,CARE,Stargazing
+1155,1155,CARE,Biking
+1156,1156,CARE,Road Biking
+1157,1157,CARE,Camping
+1158,1158,CARE,Backcountry Camping
+1159,1159,CARE,Car or Front Country Camping
+1160,1160,CARE,Horse Camping (see also Horse/Stock Use)
+1161,1161,CARE,Group Camping
+1162,1162,CARE,RV Camping
+1163,1163,CARE,Canyoneering
+1164,1164,CARE,Climbing
+1165,1165,CARE,Rock Climbing
+1166,1166,CARE,Fishing
+1167,1167,CARE,Food
+1168,1168,CARE,Picnicking
+1169,1169,CARE,Guided Tours
+1170,1170,CARE,Self-Guided Tours - Walking
+1171,1171,CARE,Self-Guided Tours - Auto
+1172,1172,CARE,Hands-On
+1173,1173,CARE,Citizen Science
+1174,1174,CARE,Arts and Crafts
+1175,1175,CARE,Volunteer Vacation
+1176,1176,CARE,Hiking
+1177,1177,CARE,Backcountry Hiking
+1178,1178,CARE,Front-Country Hiking
+1179,1179,CARE,Off-Trail Permitted Hiking
+1180,1180,CARE,Horse Trekking
+1181,1181,CARE,Horse Camping (see also camping)
+1182,1182,CARE,Horseback Riding
+1183,1183,CARE,Living History
+1184,1184,CARE,First Person Interpretation
+1185,1185,CARE,Junior Ranger Program
+1186,1186,CARE,Wildlife Watching
+1187,1187,CARE,Birdwatching
+1188,1188,CARE,Park Film
+1189,1189,CARE,Museum Exhibits
+1190,1190,CARE,Shopping
+1191,1191,CARE,Bookstore and Park Store
+1192,1192,CARE,Gift Shop and Souvenirs
+1243,1243,CAVE,Astronomy
+1244,1244,CAVE,Stargazing
+1245,1245,CAVE,Camping
+1246,1246,CAVE,Caving
+1247,1247,CAVE,Food
+1248,1248,CAVE,Dining
+1249,1249,CAVE,Picnicking
+1250,1250,CAVE,Guided Tours
+1251,1251,CAVE,Self-Guided Tours - Walking
+1252,1252,CAVE,Hiking
+1253,1253,CAVE,Junior Ranger Program
+1254,1254,CAVE,Wildlife Watching
+1255,1255,CAVE,Birdwatching
+1256,1256,CAVE,Park Film
+1257,1257,CAVE,Shopping
+1258,1258,CAVE,Bookstore and Park Store
+1259,1259,CAVE,Gift Shop and Souvenirs
+1360,1360,CHIS,Astronomy
+1361,1361,CHIS,Stargazing
+1362,1362,CHIS,Boating
+1363,1363,CHIS,Motorized Boating
+1364,1364,CHIS,Sailing
+1365,1365,CHIS,Boat Tour
+1366,1366,CHIS,Camping
+1367,1367,CHIS,Backcountry Camping
+1368,1368,CHIS,Canoe or Kayak Camping
+1369,1369,CHIS,Group Camping
+1370,1370,CHIS,Compass and GPS
+1371,1371,CHIS,Orienteering
+1372,1372,CHIS,Fishing
+1373,1373,CHIS,Saltwater Fishing
+1374,1374,CHIS,Food
+1375,1375,CHIS,Picnicking
+1376,1376,CHIS,Guided Tours
+1377,1377,CHIS,Self-Guided Tours - Walking
+1378,1378,CHIS,Boat Tour
+1379,1379,CHIS,Hiking
+1380,1380,CHIS,Backcountry Hiking
+1381,1381,CHIS,Front-Country Hiking
+1382,1382,CHIS,Off-Trail Permitted Hiking
+1383,1383,CHIS,Paddling
+1384,1384,CHIS,Canoe or Kayak Camping
+1385,1385,CHIS,Kayaking
+1386,1386,CHIS,Stand Up Paddleboarding
+1387,1387,CHIS,Junior Ranger Program
+1388,1388,CHIS,SCUBA Diving
+1389,1389,CHIS,Snorkeling
+1390,1390,CHIS,Surfing
+1391,1391,CHIS,Swimming
+1392,1392,CHIS,Saltwater Swimming
+1393,1393,CHIS,Wildlife Watching
+1394,1394,CHIS,Birdwatching
+1395,1395,CHIS,Park Film
+1396,1396,CHIS,Museum Exhibits
+1397,1397,CHIS,Shopping
+1398,1398,CHIS,Bookstore and Park Store
+1643,1643,CONG,Camping
+1644,1644,CONG,Backcountry Camping
+1645,1645,CONG,Canoe or Kayak Camping
+1646,1646,CONG,Car or Front Country Camping
+1647,1647,CONG,Group Camping
+1648,1648,CONG,Fishing
+1649,1649,CONG,Freshwater Fishing
+1650,1650,CONG,Food
+1651,1651,CONG,Picnicking
+1652,1652,CONG,Guided Tours
+1653,1653,CONG,Self-Guided Tours - Walking
+1654,1654,CONG,Hands-On
+1655,1655,CONG,Citizen Science
+1656,1656,CONG,Volunteer Vacation
+1657,1657,CONG,Hiking
+1658,1658,CONG,Backcountry Hiking
+1659,1659,CONG,Front-Country Hiking
+1660,1660,CONG,Off-Trail Permitted Hiking
+1661,1661,CONG,Paddling
+1662,1662,CONG,Canoeing
+1663,1663,CONG,Canoe or Kayak Camping
+1664,1664,CONG,Kayaking
+1665,1665,CONG,Junior Ranger Program
+1666,1666,CONG,Museum Exhibits
+1667,1667,CONG,Shopping
+1668,1668,CONG,Bookstore and Park Store
+1695,1695,CRLA,Auto and ATV
+1696,1696,CRLA,Scenic Driving
+1697,1697,CRLA,Astronomy
+1698,1698,CRLA,Stargazing
+1699,1699,CRLA,Biking
+1700,1700,CRLA,Road Biking
+1701,1701,CRLA,Boating
+1702,1702,CRLA,Boat Tour
+1703,1703,CRLA,Camping
+1704,1704,CRLA,Backcountry Camping
+1705,1705,CRLA,Car or Front Country Camping
+1706,1706,CRLA,RV Camping
+1707,1707,CRLA,Compass and GPS
+1708,1708,CRLA,Orienteering
+1709,1709,CRLA,Fishing
+1710,1710,CRLA,Food
+1711,1711,CRLA,Dining
+1712,1712,CRLA,Picnicking
+1713,1713,CRLA,Guided Tours
+1714,1714,CRLA,Self-Guided Tours - Walking
+1715,1715,CRLA,Self-Guided Tours - Auto
+1716,1716,CRLA,Bus/Shuttle Guided Tour
+1717,1717,CRLA,Boat Tour
+1718,1718,CRLA,Hands-On
+1719,1719,CRLA,Citizen Science
+1720,1720,CRLA,Hiking
+1721,1721,CRLA,Backcountry Hiking
+1722,1722,CRLA,Front-Country Hiking
+1723,1723,CRLA,Off-Trail Permitted Hiking
+1724,1724,CRLA,Junior Ranger Program
+1725,1725,CRLA,Skiing
+1726,1726,CRLA,Cross-Country Skiing
+1727,1727,CRLA,Snow Play
+1728,1728,CRLA,Snowmobiling
+1729,1729,CRLA,Snowshoeing
+1730,1730,CRLA,Swimming
+1731,1731,CRLA,Wildlife Watching
+1732,1732,CRLA,Birdwatching
+1733,1733,CRLA,Park Film
+1734,1734,CRLA,Museum Exhibits
+1735,1735,CRLA,Shopping
+1736,1736,CRLA,Bookstore and Park Store
+1737,1737,CRLA,Gift Shop and Souvenirs
+1825,1825,CUVA,Arts and Culture
+1826,1826,CUVA,Craft Demonstrations
+1827,1827,CUVA,Cultural Demonstrations
+1828,1828,CUVA,Live Music
+1829,1829,CUVA,Biking
+1830,1830,CUVA,Mountain Biking
+1831,1831,CUVA,Fishing
+1832,1832,CUVA,Food
+1833,1833,CUVA,Picnicking
+1834,1834,CUVA,Hands-On
+1835,1835,CUVA,Citizen Science
+1836,1836,CUVA,Hiking
+1837,1837,CUVA,Horse Trekking
+1838,1838,CUVA,Horseback Riding
+1839,1839,CUVA,Living History
+1840,1840,CUVA,Paddling
+1841,1841,CUVA,Canoeing
+1842,1842,CUVA,Kayaking
+1843,1843,CUVA,Stand Up Paddleboarding
+1844,1844,CUVA,Junior Ranger Program
+1845,1845,CUVA,Skiing
+1846,1846,CUVA,Cross-Country Skiing
+1847,1847,CUVA,Snow Play
+1848,1848,CUVA,Snowshoeing
+1849,1849,CUVA,Wildlife Watching
+1850,1850,CUVA,Birdwatching
+1851,1851,CUVA,Shopping
+1852,1852,CUVA,Bookstore and Park Store
+1853,1853,CUVA,Gift Shop and Souvenirs
+1876,1876,DEVA,Astronomy
+1877,1877,DEVA,Stargazing
+1878,1878,DEVA,Biking
+1879,1879,DEVA,Mountain Biking
+1880,1880,DEVA,Road Biking
+1881,1881,DEVA,Camping
+1882,1882,DEVA,Backcountry Camping
+1883,1883,DEVA,Car or Front Country Camping
+1884,1884,DEVA,Canyoneering
+1885,1885,DEVA,Food
+1886,1886,DEVA,Flying
+1887,1887,DEVA,Golf
+1888,1888,DEVA,Guided Tours
+1889,1889,DEVA,Hiking
+1890,1890,DEVA,Backcountry Hiking
+1891,1891,DEVA,Front-Country Hiking
+1892,1892,DEVA,Horse Trekking
+1893,1893,DEVA,Living History
+1894,1894,DEVA,First Person Interpretation
+1895,1895,DEVA,Junior Ranger Program
+1896,1896,DEVA,Wildlife Watching
+1897,1897,DEVA,Birdwatching
+1898,1898,DEVA,Park Film
+1899,1899,DEVA,Museum Exhibits
+1900,1900,DEVA,Shopping
+1901,1901,DEVA,Bookstore and Park Store
+1902,1902,DEVA,Gift Shop and Souvenirs
+1941,1941,DENA,Arts and Culture
+1942,1942,DENA,Astronomy
+1943,1943,DENA,Stargazing
+1944,1944,DENA,Biking
+1945,1945,DENA,Camping
+1946,1946,DENA,Backcountry Camping
+1947,1947,DENA,Car or Front Country Camping
+1948,1948,DENA,Group Camping
+1949,1949,DENA,RV Camping
+1950,1950,DENA,Climbing
+1951,1951,DENA,Mountain Climbing
+1952,1952,DENA,Dog Sledding
+1953,1953,DENA,Fishing
+1954,1954,DENA,Food
+1955,1955,DENA,Flying
+1956,1956,DENA,Guided Tours
+1957,1957,DENA,Bus/Shuttle Guided Tour
+1958,1958,DENA,Hiking
+1959,1959,DENA,Backcountry Hiking
+1960,1960,DENA,Front-Country Hiking
+1961,1961,DENA,Off-Trail Permitted Hiking
+1962,1962,DENA,Hunting and Gathering
+1963,1963,DENA,Gathering and Foraging
+1964,1964,DENA,Hunting
+1965,1965,DENA,Junior Ranger Program
+1966,1966,DENA,Skiing
+1967,1967,DENA,Cross-Country Skiing
+1968,1968,DENA,Snow Play
+1969,1969,DENA,Snowmobiling
+1970,1970,DENA,Snowshoeing
+1971,1971,DENA,Wildlife Watching
+1972,1972,DENA,Park Film
+1973,1973,DENA,Shopping
+1974,1974,DENA,Bookstore and Park Store
+2031,2031,DRTO,Astronomy
+2032,2032,DRTO,Stargazing
+2033,2033,DRTO,Boating
+2034,2034,DRTO,Boat Tour
+2035,2035,DRTO,Camping
+2036,2036,DRTO,Fishing
+2037,2037,DRTO,Guided Tours
+2038,2038,DRTO,Hands-On
+2039,2039,DRTO,Volunteer Vacation
+2040,2040,DRTO,Paddling
+2041,2041,DRTO,Junior Ranger Program
+2042,2042,DRTO,SCUBA Diving
+2043,2043,DRTO,Snorkeling
+2044,2044,DRTO,Swimming
+2045,2045,DRTO,Wildlife Watching
+2046,2046,DRTO,Birdwatching
+2047,2047,DRTO,Shopping
+2048,2048,DRTO,Bookstore and Park Store
+2180,2180,EVER,Auto and ATV
+2181,2181,EVER,Scenic Driving
+2182,2182,EVER,Astronomy
+2183,2183,EVER,Stargazing
+2184,2184,EVER,Biking
+2185,2185,EVER,Road Biking
+2186,2186,EVER,Boating
+2187,2187,EVER,Motorized Boating
+2188,2188,EVER,Sailing
+2189,2189,EVER,Boat Tour
+2190,2190,EVER,Camping
+2191,2191,EVER,Backcountry Camping
+2192,2192,EVER,Canoe or Kayak Camping
+2193,2193,EVER,Car or Front Country Camping
+2194,2194,EVER,Group Camping
+2195,2195,EVER,RV Camping
+2196,2196,EVER,Compass and GPS
+2197,2197,EVER,Geocaching
+2198,2198,EVER,Fishing
+2199,2199,EVER,Freshwater Fishing
+2200,2200,EVER,Saltwater Fishing
+2201,2201,EVER,Food
+2202,2202,EVER,Picnicking
+2203,2203,EVER,Guided Tours
+2204,2204,EVER,Self-Guided Tours - Walking
+2205,2205,EVER,Self-Guided Tours - Auto
+2206,2206,EVER,Bus/Shuttle Guided Tour
+2207,2207,EVER,Boat Tour
+2208,2208,EVER,Hands-On
+2209,2209,EVER,Citizen Science
+2210,2210,EVER,Volunteer Vacation
+2211,2211,EVER,Hiking
+2212,2212,EVER,Backcountry Hiking
+2213,2213,EVER,Front-Country Hiking
+2214,2214,EVER,Paddling
+2215,2215,EVER,Canoeing
+2216,2216,EVER,Canoe or Kayak Camping
+2217,2217,EVER,Kayaking
+2218,2218,EVER,Junior Ranger Program
+2219,2219,EVER,Wildlife Watching
+2220,2220,EVER,Birdwatching
+2221,2221,EVER,Park Film
+2222,2222,EVER,Museum Exhibits
+2223,2223,EVER,Shopping
+2224,2224,EVER,Bookstore and Park Store
+2225,2225,EVER,Gift Shop and Souvenirs
+2648,2648,GAAR,Camping
+2649,2649,GAAR,Backcountry Camping
+2650,2650,GAAR,Canoe or Kayak Camping
+2651,2651,GAAR,Climbing
+2652,2652,GAAR,Rock Climbing
+2653,2653,GAAR,Mountain Climbing
+2654,2654,GAAR,Hiking
+2655,2655,GAAR,Backcountry Hiking
+2656,2656,GAAR,Off-Trail Permitted Hiking
+2657,2657,GAAR,Hunting and Gathering
+2658,2658,GAAR,Hunting
+2659,2659,GAAR,Paddling
+2660,2660,GAAR,Canoeing
+2661,2661,GAAR,Kayaking
+2662,2662,GAAR,Whitewater Rafting
+2663,2663,GAAR,Junior Ranger Program
+2664,2664,JEFF,Astronomy
+2665,2665,JEFF,Stargazing
+2666,2666,JEFF,Biking
+2667,2667,JEFF,Road Biking
+2668,2668,JEFF,Food
+2669,2669,JEFF,Dining
+2670,2670,JEFF,Picnicking
+2671,2671,JEFF,Guided Tours
+2672,2672,JEFF,Boat Tour
+2673,2673,JEFF,Junior Ranger Program
+2674,2674,JEFF,Park Film
+2675,2675,JEFF,Museum Exhibits
+2676,2676,JEFF,Shopping
+2677,2677,JEFF,Bookstore and Park Store
+2678,2678,JEFF,Gift Shop and Souvenirs
+2795,2795,GLBA,Arts and Culture
+2796,2796,GLBA,Cultural Demonstrations
+2797,2797,GLBA,Auto and ATV
+2798,2798,GLBA,ATV Off-Roading
+2799,2799,GLBA,Boating
+2800,2800,GLBA,Motorized Boating
+2801,2801,GLBA,Boat Tour
+2802,2802,GLBA,Camping
+2803,2803,GLBA,Backcountry Camping
+2804,2804,GLBA,Canoe or Kayak Camping
+2805,2805,GLBA,Car or Front Country Camping
+2806,2806,GLBA,Climbing
+2807,2807,GLBA,Mountain Climbing
+2808,2808,GLBA,Fishing
+2809,2809,GLBA,Food
+2810,2810,GLBA,Flying
+2811,2811,GLBA,Guided Tours
+2812,2812,GLBA,Boat Tour
+2813,2813,GLBA,Hiking
+2814,2814,GLBA,Front-Country Hiking
+2815,2815,GLBA,Hunting and Gathering
+2816,2816,GLBA,Hunting
+2817,2817,GLBA,Paddling
+2818,2818,GLBA,Kayaking
+2819,2819,GLBA,Whitewater Rafting
+2820,2820,GLBA,Junior Ranger Program
+2821,2821,GLBA,Wildlife Watching
+2822,2822,GLBA,Birdwatching
+2823,2823,GLBA,Park Film
+2824,2824,GLBA,Shopping
+2825,2825,GLBA,Bookstore and Park Store
+2826,2826,GLAC,Arts and Culture
+2827,2827,GLAC,Cultural Demonstrations
+2828,2828,GLAC,Live Music
+2829,2829,GLAC,Auto and ATV
+2830,2830,GLAC,Scenic Driving
+2831,2831,GLAC,Astronomy
+2832,2832,GLAC,Biking
+2833,2833,GLAC,Road Biking
+2834,2834,GLAC,Boating
+2835,2835,GLAC,Motorized Boating
+2836,2836,GLAC,Boat Tour
+2837,2837,GLAC,Camping
+2838,2838,GLAC,Backcountry Camping
+2839,2839,GLAC,Canoe or Kayak Camping
+2840,2840,GLAC,Car or Front Country Camping
+2841,2841,GLAC,Horse Camping (see also Horse/Stock Use)
+2842,2842,GLAC,Group Camping
+2843,2843,GLAC,Climbing
+2844,2844,GLAC,Mountain Climbing
+2845,2845,GLAC,Fishing
+2846,2846,GLAC,Food
+2847,2847,GLAC,Guided Tours
+2848,2848,GLAC,Self-Guided Tours - Walking
+2849,2849,GLAC,Self-Guided Tours - Auto
+2850,2850,GLAC,Bus/Shuttle Guided Tour
+2851,2851,GLAC,Boat Tour
+2852,2852,GLAC,Hands-On
+2853,2853,GLAC,Citizen Science
+2854,2854,GLAC,Hiking
+2855,2855,GLAC,Horse Trekking
+2856,2856,GLAC,Horse Camping (see also camping)
+2857,2857,GLAC,Horseback Riding
+2858,2858,GLAC,Paddling
+2859,2859,GLAC,Canoe or Kayak Camping
+2860,2860,GLAC,Stand Up Paddleboarding
+2861,2861,GLAC,Whitewater Rafting
+2862,2862,GLAC,Junior Ranger Program
+2863,2863,GLAC,Skiing
+2864,2864,GLAC,Cross-Country Skiing
+2865,2865,GLAC,Snow Play
+2866,2866,GLAC,Snowshoeing
+2867,2867,GLAC,Swimming
+2868,2868,GLAC,Park Film
+2869,2869,GLAC,Shopping
+2870,2870,GLAC,Bookstore and Park Store
+2956,2956,GRCA,Arts and Culture
+2957,2957,GRCA,Cultural Demonstrations
+2958,2958,GRCA,Auto and ATV
+2959,2959,GRCA,Scenic Driving
+2960,2960,GRCA,Astronomy
+2961,2961,GRCA,Stargazing
+2962,2962,GRCA,Biking
+2963,2963,GRCA,Road Biking
+2964,2964,GRCA,Boating
+2965,2965,GRCA,Camping
+2966,2966,GRCA,Backcountry Camping
+2967,2967,GRCA,Car or Front Country Camping
+2968,2968,GRCA,Horse Camping (see also Horse/Stock Use)
+2969,2969,GRCA,Fishing
+2970,2970,GRCA,Food
+2971,2971,GRCA,Flying
+2972,2972,GRCA,Guided Tours
+2973,2973,GRCA,Hands-On
+2974,2974,GRCA,Volunteer Vacation
+2975,2975,GRCA,Hiking
+2976,2976,GRCA,Backcountry Hiking
+2977,2977,GRCA,Front-Country Hiking
+2978,2978,GRCA,Horse Trekking
+2979,2979,GRCA,Paddling
+2980,2980,GRCA,Whitewater Rafting
+2981,2981,GRCA,Junior Ranger Program
+2982,2982,GRCA,Wildlife Watching
+2983,2983,GRCA,Birdwatching
+2984,2984,GRCA,Park Film
+2985,2985,GRCA,Museum Exhibits
+2986,2986,GRCA,Shopping
+2987,2987,GRCA,Bookstore and Park Store
+3026,3026,GRTE,Arts and Culture
+3027,3027,GRTE,Cultural Demonstrations
+3028,3028,GRTE,Auto and ATV
+3029,3029,GRTE,Scenic Driving
+3030,3030,GRTE,Biking
+3031,3031,GRTE,Road Biking
+3032,3032,GRTE,Boating
+3033,3033,GRTE,Motorized Boating
+3034,3034,GRTE,Sailing
+3035,3035,GRTE,Boat Tour
+3036,3036,GRTE,Camping
+3037,3037,GRTE,Backcountry Camping
+3038,3038,GRTE,Canoe or Kayak Camping
+3039,3039,GRTE,Car or Front Country Camping
+3040,3040,GRTE,Horse Camping (see also Horse/Stock Use)
+3041,3041,GRTE,Group Camping
+3042,3042,GRTE,RV Camping
+3043,3043,GRTE,Climbing
+3044,3044,GRTE,Rock Climbing
+3045,3045,GRTE,Mountain Climbing
+3046,3046,GRTE,Ice Climbing
+3047,3047,GRTE,Fishing
+3048,3048,GRTE,Freshwater Fishing
+3049,3049,GRTE,Fly Fishing
+3050,3050,GRTE,Food
+3051,3051,GRTE,Dining
+3052,3052,GRTE,Guided Tours
+3053,3053,GRTE,Self-Guided Tours - Auto
+3054,3054,GRTE,Boat Tour
+3055,3055,GRTE,Hiking
+3056,3056,GRTE,Backcountry Hiking
+3057,3057,GRTE,Front-Country Hiking
+3058,3058,GRTE,Off-Trail Permitted Hiking
+3059,3059,GRTE,Horse Trekking
+3060,3060,GRTE,Horse Camping (see also camping)
+3061,3061,GRTE,Horseback Riding
+3062,3062,GRTE,Hunting and Gathering
+3063,3063,GRTE,Hunting
+3064,3064,GRTE,Paddling
+3065,3065,GRTE,Canoeing
+3066,3066,GRTE,Canoe or Kayak Camping
+3067,3067,GRTE,Kayaking
+3068,3068,GRTE,Stand Up Paddleboarding
+3069,3069,GRTE,Junior Ranger Program
+3070,3070,GRTE,Skiing
+3071,3071,GRTE,Cross-Country Skiing
+3072,3072,GRTE,Snow Play
+3073,3073,GRTE,Snowmobiling
+3074,3074,GRTE,Snowshoeing
+3075,3075,GRTE,Water Skiing
+3076,3076,GRTE,Wildlife Watching
+3077,3077,GRTE,Birdwatching
+3078,3078,GRTE,Shopping
+3079,3079,GRTE,Bookstore and Park Store
+3091,3091,GRBA,Auto and ATV
+3092,3092,GRBA,Scenic Driving
+3093,3093,GRBA,Astronomy
+3094,3094,GRBA,Stargazing
+3095,3095,GRBA,Biking
+3096,3096,GRBA,Road Biking
+3097,3097,GRBA,Camping
+3098,3098,GRBA,Backcountry Camping
+3099,3099,GRBA,Car or Front Country Camping
+3100,3100,GRBA,Horse Camping (see also Horse/Stock Use)
+3101,3101,GRBA,Group Camping
+3102,3102,GRBA,RV Camping
+3103,3103,GRBA,Caving
+3104,3104,GRBA,Climbing
+3105,3105,GRBA,Fishing
+3106,3106,GRBA,Freshwater Fishing
+3107,3107,GRBA,Fly Fishing
+3108,3108,GRBA,Food
+3109,3109,GRBA,Dining
+3110,3110,GRBA,Picnicking
+3111,3111,GRBA,Guided Tours
+3112,3112,GRBA,Hiking
+3113,3113,GRBA,Backcountry Hiking
+3114,3114,GRBA,Front-Country Hiking
+3115,3115,GRBA,Off-Trail Permitted Hiking
+3116,3116,GRBA,Horse Trekking
+3117,3117,GRBA,Horse Camping (see also camping)
+3118,3118,GRBA,Horseback Riding
+3119,3119,GRBA,Hunting and Gathering
+3120,3120,GRBA,Gathering and Foraging
+3121,3121,GRBA,Junior Ranger Program
+3122,3122,GRBA,Skiing
+3123,3123,GRBA,Cross-Country Skiing
+3124,3124,GRBA,Downhill Skiing
+3125,3125,GRBA,Snowshoeing
+3126,3126,GRBA,Wildlife Watching
+3127,3127,GRBA,Birdwatching
+3128,3128,GRBA,Park Film
+3129,3129,GRBA,Museum Exhibits
+3130,3130,GRBA,Shopping
+3131,3131,GRBA,Bookstore and Park Store
+3132,3132,GRBA,Gift Shop and Souvenirs
+3162,3162,GRSA,Arts and Culture
+3163,3163,GRSA,Craft Demonstrations
+3164,3164,GRSA,Live Music
+3165,3165,GRSA,Auto and ATV
+3166,3166,GRSA,Auto Off-Roading
+3167,3167,GRSA,Astronomy
+3168,3168,GRSA,Stargazing
+3169,3169,GRSA,Biking
+3170,3170,GRSA,Mountain Biking
+3171,3171,GRSA,Camping
+3172,3172,GRSA,Backcountry Camping
+3173,3173,GRSA,Car or Front Country Camping
+3174,3174,GRSA,Horse Camping (see also Horse/Stock Use)
+3175,3175,GRSA,Group Camping
+3176,3176,GRSA,RV Camping
+3177,3177,GRSA,Climbing
+3178,3178,GRSA,Mountain Climbing
+3179,3179,GRSA,Compass and GPS
+3180,3180,GRSA,Orienteering
+3181,3181,GRSA,Fishing
+3182,3182,GRSA,Freshwater Fishing
+3183,3183,GRSA,Fly Fishing
+3184,3184,GRSA,Food
+3185,3185,GRSA,Dining
+3186,3186,GRSA,Picnicking
+3187,3187,GRSA,Guided Tours
+3188,3188,GRSA,Hands-On
+3189,3189,GRSA,Arts and Crafts
+3190,3190,GRSA,Volunteer Vacation
+3191,3191,GRSA,Hiking
+3192,3192,GRSA,Backcountry Hiking
+3193,3193,GRSA,Front-Country Hiking
+3194,3194,GRSA,Off-Trail Permitted Hiking
+3195,3195,GRSA,Horse Trekking
+3196,3196,GRSA,Horse Camping (see also camping)
+3197,3197,GRSA,Horseback Riding
+3198,3198,GRSA,Hunting and Gathering
+3199,3199,GRSA,Hunting
+3200,3200,GRSA,Junior Ranger Program
+3201,3201,GRSA,Tubing
+3202,3202,GRSA,River Tubing
+3203,3203,GRSA,Skiing
+3204,3204,GRSA,Cross-Country Skiing
+3205,3205,GRSA,Downhill Skiing
+3206,3206,GRSA,Snow Play
+3207,3207,GRSA,Snowshoeing
+3208,3208,GRSA,Swimming
+3209,3209,GRSA,Freshwater Swimming
+3210,3210,GRSA,Water Skiing
+3211,3211,GRSA,Wildlife Watching
+3212,3212,GRSA,Birdwatching
+3213,3213,GRSA,Park Film
+3214,3214,GRSA,Museum Exhibits
+3215,3215,GRSA,Shopping
+3216,3216,GRSA,Bookstore and Park Store
+3217,3217,GRSA,Gift Shop and Souvenirs
+3218,3218,GRSM,Arts and Culture
+3219,3219,GRSM,Live Music
+3220,3220,GRSM,Auto and ATV
+3221,3221,GRSM,Scenic Driving
+3222,3222,GRSM,Astronomy
+3223,3223,GRSM,Stargazing
+3224,3224,GRSM,Biking
+3225,3225,GRSM,Road Biking
+3226,3226,GRSM,Camping
+3227,3227,GRSM,Backcountry Camping
+3228,3228,GRSM,Car or Front Country Camping
+3229,3229,GRSM,Horse Camping (see also Horse/Stock Use)
+3230,3230,GRSM,Group Camping
+3231,3231,GRSM,RV Camping
+3232,3232,GRSM,Fishing
+3233,3233,GRSM,Freshwater Fishing
+3234,3234,GRSM,Fly Fishing
+3235,3235,GRSM,Food
+3236,3236,GRSM,Picnicking
+3237,3237,GRSM,Guided Tours
+3238,3238,GRSM,Self-Guided Tours - Auto
+3239,3239,GRSM,Hands-On
+3240,3240,GRSM,Citizen Science
+3241,3241,GRSM,Hiking
+3242,3242,GRSM,Backcountry Hiking
+3243,3243,GRSM,Front-Country Hiking
+3244,3244,GRSM,Horse Trekking
+3245,3245,GRSM,Horse Camping (see also camping)
+3246,3246,GRSM,Horseback Riding
+3247,3247,GRSM,Junior Ranger Program
+3248,3248,GRSM,Wildlife Watching
+3249,3249,GRSM,Birdwatching
+3250,3250,GRSM,Park Film
+3251,3251,GRSM,Museum Exhibits
+3252,3252,GRSM,Shopping
+3253,3253,GRSM,Bookstore and Park Store
+3266,3266,GUMO,Auto and ATV
+3267,3267,GUMO,Auto Off-Roading
+3268,3268,GUMO,Camping
+3269,3269,GUMO,Backcountry Camping
+3270,3270,GUMO,Car or Front Country Camping
+3271,3271,GUMO,Horse Camping (see also Horse/Stock Use)
+3272,3272,GUMO,Group Camping
+3273,3273,GUMO,RV Camping
+3274,3274,GUMO,Guided Tours
+3275,3275,GUMO,Self-Guided Tours - Walking
+3276,3276,GUMO,Hiking
+3277,3277,GUMO,Backcountry Hiking
+3278,3278,GUMO,Front-Country Hiking
+3279,3279,GUMO,Horse Trekking
+3280,3280,GUMO,Horse Camping (see also camping)
+3281,3281,GUMO,Horseback Riding
+3282,3282,GUMO,Junior Ranger Program
+3283,3283,GUMO,Wildlife Watching
+3284,3284,GUMO,Birdwatching
+3285,3285,GUMO,Museum Exhibits
+3360,3360,HALE,Camping
+3361,3361,HALE,Backcountry Camping
+3362,3362,HALE,Guided Tours
+3363,3363,HALE,Bus/Shuttle Guided Tour
+3364,3364,HALE,Hiking
+3365,3365,HALE,Junior Ranger Program
+3366,3366,HALE,Swimming
+3367,3367,HALE,Shopping
+3421,3421,HAVO,Arts and Culture
+3422,3422,HAVO,Biking
+3423,3423,HAVO,Camping
+3424,3424,HAVO,Backcountry Camping
+3425,3425,HAVO,Car or Front Country Camping
+3426,3426,HAVO,Guided Tours
+3427,3427,HAVO,Hiking
+3428,3428,HAVO,Backcountry Hiking
+3429,3429,HAVO,Front-Country Hiking
+3430,3430,HAVO,Junior Ranger Program
+3431,3431,HAVO,Wildlife Watching
+3432,3432,HAVO,Birdwatching
+3433,3433,HAVO,Park Film
+3434,3434,HAVO,Museum Exhibits
+3435,3435,HAVO,Shopping
+3436,3436,HAVO,Bookstore and Park Store
+3437,3437,HAVO,Gift Shop and Souvenirs
+3558,3558,HOSP,Auto and ATV
+3559,3559,HOSP,Scenic Driving
+3560,3560,HOSP,Biking
+3561,3561,HOSP,Camping
+3562,3562,HOSP,Car or Front Country Camping
+3563,3563,HOSP,RV Camping
+3564,3564,HOSP,Fishing
+3565,3565,HOSP,Food
+3566,3566,HOSP,Dining
+3567,3567,HOSP,Picnicking
+3568,3568,HOSP,Guided Tours
+3569,3569,HOSP,Hiking
+3570,3570,HOSP,Junior Ranger Program
+3571,3571,HOSP,Wildlife Watching
+3572,3572,HOSP,Birdwatching
+3573,3573,HOSP,Park Film
+3574,3574,HOSP,Museum Exhibits
+3575,3575,HOSP,Shopping
+3576,3576,HOSP,Bookstore and Park Store
+3577,3577,HOSP,Gift Shop and Souvenirs
+3614,3614,INDU,Arts and Culture
+3615,3615,INDU,Cultural Demonstrations
+3616,3616,INDU,Auto and ATV
+3617,3617,INDU,Scenic Driving
+3618,3618,INDU,Astronomy
+3619,3619,INDU,Stargazing
+3620,3620,INDU,Biking
+3621,3621,INDU,Boating
+3622,3622,INDU,Camping
+3623,3623,INDU,RV Camping
+3624,3624,INDU,Fishing
+3625,3625,INDU,Food
+3626,3626,INDU,Picnicking
+3627,3627,INDU,Guided Tours
+3628,3628,INDU,Self-Guided Tours - Walking
+3629,3629,INDU,Self-Guided Tours - Auto
+3630,3630,INDU,Hiking
+3631,3631,INDU,Horse Trekking
+3632,3632,INDU,Paddling
+3633,3633,INDU,Canoeing
+3634,3634,INDU,Kayaking
+3635,3635,INDU,Stand Up Paddleboarding
+3636,3636,INDU,Junior Ranger Program
+3637,3637,INDU,Playground
+3638,3638,INDU,Skiing
+3639,3639,INDU,Cross-Country Skiing
+3640,3640,INDU,Snow Play
+3641,3641,INDU,Snowshoeing
+3642,3642,INDU,Swimming
+3643,3643,INDU,Freshwater Swimming
+3644,3644,INDU,Wildlife Watching
+3645,3645,INDU,Birdwatching
+3646,3646,INDU,Park Film
+3647,3647,INDU,Shopping
+3648,3648,INDU,Bookstore and Park Store
+3649,3649,ISRO,Arts and Culture
+3650,3650,ISRO,Astronomy
+3651,3651,ISRO,Stargazing
+3652,3652,ISRO,Boating
+3653,3653,ISRO,Motorized Boating
+3654,3654,ISRO,Sailing
+3655,3655,ISRO,Boat Tour
+3656,3656,ISRO,Camping
+3657,3657,ISRO,Backcountry Camping
+3658,3658,ISRO,Canoe or Kayak Camping
+3659,3659,ISRO,Group Camping
+3660,3660,ISRO,Fishing
+3661,3661,ISRO,Freshwater Fishing
+3662,3662,ISRO,Food
+3663,3663,ISRO,Dining
+3664,3664,ISRO,Flying
+3665,3665,ISRO,Guided Tours
+3666,3666,ISRO,Boat Tour
+3667,3667,ISRO,Hiking
+3668,3668,ISRO,Backcountry Hiking
+3669,3669,ISRO,Front-Country Hiking
+3670,3670,ISRO,Off-Trail Permitted Hiking
+3671,3671,ISRO,Paddling
+3672,3672,ISRO,Canoeing
+3673,3673,ISRO,Canoe or Kayak Camping
+3674,3674,ISRO,Kayaking
+3675,3675,ISRO,Junior Ranger Program
+3676,3676,ISRO,SCUBA Diving
+3677,3677,ISRO,Wildlife Watching
+3678,3678,ISRO,Birdwatching
+3679,3679,ISRO,Park Film
+3680,3680,ISRO,Museum Exhibits
+3681,3681,ISRO,Shopping
+3682,3682,ISRO,Bookstore and Park Store
+3683,3683,ISRO,Gift Shop and Souvenirs
+3762,3762,JOTR,Auto and ATV
+3763,3763,JOTR,Scenic Driving
+3764,3764,JOTR,Astronomy
+3765,3765,JOTR,Stargazing
+3766,3766,JOTR,Biking
+3767,3767,JOTR,Camping
+3768,3768,JOTR,Backcountry Camping
+3769,3769,JOTR,Car or Front Country Camping
+3770,3770,JOTR,Horse Camping (see also Horse/Stock Use)
+3771,3771,JOTR,Group Camping
+3772,3772,JOTR,Climbing
+3773,3773,JOTR,Rock Climbing
+3774,3774,JOTR,Food
+3775,3775,JOTR,Picnicking
+3776,3776,JOTR,Guided Tours
+3777,3777,JOTR,Self-Guided Tours - Walking
+3778,3778,JOTR,Self-Guided Tours - Auto
+3779,3779,JOTR,Hiking
+3780,3780,JOTR,Backcountry Hiking
+3781,3781,JOTR,Front-Country Hiking
+3782,3782,JOTR,Horse Trekking
+3783,3783,JOTR,Horse Camping (see also camping)
+3784,3784,JOTR,Horseback Riding
+3785,3785,JOTR,Junior Ranger Program
+3786,3786,JOTR,Wildlife Watching
+3787,3787,JOTR,Birdwatching
+3788,3788,JOTR,Museum Exhibits
+3789,3789,JOTR,Shopping
+3790,3790,JOTR,Bookstore and Park Store
+3844,3844,KATM,Boating
+3845,3845,KATM,Camping
+3846,3846,KATM,Backcountry Camping
+3847,3847,KATM,Canoe or Kayak Camping
+3848,3848,KATM,Fishing
+3849,3849,KATM,Fly Fishing
+3850,3850,KATM,Food
+3851,3851,KATM,Dining
+3852,3852,KATM,Picnicking
+3853,3853,KATM,Flying
+3854,3854,KATM,Guided Tours
+3855,3855,KATM,Hiking
+3856,3856,KATM,Backcountry Hiking
+3857,3857,KATM,Hunting and Gathering
+3858,3858,KATM,Hunting
+3859,3859,KATM,Paddling
+3860,3860,KATM,Canoe or Kayak Camping
+3861,3861,KATM,Junior Ranger Program
+3862,3862,KATM,Wildlife Watching
+3863,3863,KATM,Park Film
+3864,3864,KATM,Shopping
+3865,3865,KATM,Bookstore and Park Store
+3866,3866,KATM,Gift Shop and Souvenirs
+3867,3867,KEFJ,Astronomy
+3868,3868,KEFJ,Stargazing
+3869,3869,KEFJ,Boating
+3870,3870,KEFJ,Boat Tour
+3871,3871,KEFJ,Camping
+3872,3872,KEFJ,Backcountry Camping
+3873,3873,KEFJ,Canoe or Kayak Camping
+3874,3874,KEFJ,Car or Front Country Camping
+3875,3875,KEFJ,Climbing
+3876,3876,KEFJ,Mountain Climbing
+3877,3877,KEFJ,Ice Climbing
+3878,3878,KEFJ,Dog Sledding
+3879,3879,KEFJ,Fishing
+3880,3880,KEFJ,Freshwater Fishing
+3881,3881,KEFJ,Fly Fishing
+3882,3882,KEFJ,Saltwater Fishing
+3883,3883,KEFJ,Food
+3884,3884,KEFJ,Flying
+3885,3885,KEFJ,Helicopter Flying
+3886,3886,KEFJ,Fixed Wing Flying
+3887,3887,KEFJ,Guided Tours
+3888,3888,KEFJ,Boat Tour
+3889,3889,KEFJ,Hiking
+3890,3890,KEFJ,Backcountry Hiking
+3891,3891,KEFJ,Front-Country Hiking
+3892,3892,KEFJ,Paddling
+3893,3893,KEFJ,Canoe or Kayak Camping
+3894,3894,KEFJ,Kayaking
+3895,3895,KEFJ,Junior Ranger Program
+3896,3896,KEFJ,Skiing
+3897,3897,KEFJ,Cross-Country Skiing
+3898,3898,KEFJ,Snowmobiling
+3899,3899,KEFJ,Snowshoeing
+3900,3900,KEFJ,Wildlife Watching
+3901,3901,KEFJ,Birdwatching
+3902,3902,KEFJ,Park Film
+3903,3903,KEFJ,Shopping
+3904,3904,KEFJ,Bookstore and Park Store
+3998,3998,KOVA,Boating
+3999,3999,KOVA,Camping
+4000,4000,KOVA,Backcountry Camping
+4001,4001,KOVA,Fishing
+4002,4002,KOVA,Freshwater Fishing
+4003,4003,KOVA,Flying
+4004,4004,KOVA,Fixed Wing Flying
+4005,4005,KOVA,Hands-On
+4006,4006,KOVA,Arts and Crafts
+4007,4007,KOVA,Hiking
+4008,4008,KOVA,Backcountry Hiking
+4009,4009,KOVA,Paddling
+4010,4010,KOVA,Canoeing
+4011,4011,KOVA,Canoe or Kayak Camping
+4012,4012,KOVA,Junior Ranger Program
+4013,4013,KOVA,Wildlife Watching
+4014,4014,KOVA,Museum Exhibits
+4015,4015,KOVA,Shopping
+4016,4016,KOVA,Bookstore and Park Store
+4029,4029,LACL,Astronomy
+4030,4030,LACL,Stargazing
+4031,4031,LACL,Biking
+4032,4032,LACL,Boating
+4033,4033,LACL,Motorized Boating
+4034,4034,LACL,Camping
+4035,4035,LACL,Backcountry Camping
+4036,4036,LACL,Canoe or Kayak Camping
+4037,4037,LACL,Climbing
+4038,4038,LACL,Mountain Climbing
+4039,4039,LACL,Compass and GPS
+4040,4040,LACL,Orienteering
+4041,4041,LACL,Fishing
+4042,4042,LACL,Freshwater Fishing
+4043,4043,LACL,Fly Fishing
+4044,4044,LACL,Flying
+4045,4045,LACL,Fixed Wing Flying
+4046,4046,LACL,Guided Tours
+4047,4047,LACL,Self-Guided Tours - Walking
+4048,4048,LACL,Hiking
+4049,4049,LACL,Backcountry Hiking
+4050,4050,LACL,Front-Country Hiking
+4051,4051,LACL,Off-Trail Permitted Hiking
+4052,4052,LACL,Hunting and Gathering
+4053,4053,LACL,Hunting
+4054,4054,LACL,Paddling
+4055,4055,LACL,Canoeing
+4056,4056,LACL,Canoe or Kayak Camping
+4057,4057,LACL,Kayaking
+4058,4058,LACL,Stand Up Paddleboarding
+4059,4059,LACL,Junior Ranger Program
+4060,4060,LACL,Skiing
+4061,4061,LACL,Cross-Country Skiing
+4062,4062,LACL,Snow Play
+4063,4063,LACL,Snowshoeing
+4064,4064,LACL,Wildlife Watching
+4065,4065,LACL,Birdwatching
+4066,4066,LACL,Shopping
+4067,4067,LACL,Bookstore and Park Store
+4168,4168,LAVO,Auto and ATV
+4169,4169,LAVO,Scenic Driving
+4170,4170,LAVO,Astronomy
+4171,4171,LAVO,Stargazing
+4172,4172,LAVO,Biking
+4173,4173,LAVO,Road Biking
+4174,4174,LAVO,Boating
+4175,4175,LAVO,Camping
+4176,4176,LAVO,Backcountry Camping
+4177,4177,LAVO,Car or Front Country Camping
+4178,4178,LAVO,Horse Camping (see also Horse/Stock Use)
+4179,4179,LAVO,Group Camping
+4180,4180,LAVO,RV Camping
+4181,4181,LAVO,Compass and GPS
+4182,4182,LAVO,Geocaching
+4183,4183,LAVO,Fishing
+4184,4184,LAVO,Freshwater Fishing
+4185,4185,LAVO,Fly Fishing
+4186,4186,LAVO,Food
+4187,4187,LAVO,Dining
+4188,4188,LAVO,Picnicking
+4189,4189,LAVO,Guided Tours
+4190,4190,LAVO,Self-Guided Tours - Auto
+4191,4191,LAVO,Hiking
+4192,4192,LAVO,Backcountry Hiking
+4193,4193,LAVO,Front-Country Hiking
+4194,4194,LAVO,Horse Trekking
+4195,4195,LAVO,Horseback Riding
+4196,4196,LAVO,Living History
+4197,4197,LAVO,Paddling
+4198,4198,LAVO,Canoeing
+4199,4199,LAVO,Kayaking
+4200,4200,LAVO,Stand Up Paddleboarding
+4201,4201,LAVO,Junior Ranger Program
+4202,4202,LAVO,Skiing
+4203,4203,LAVO,Cross-Country Skiing
+4204,4204,LAVO,Snow Play
+4205,4205,LAVO,Snowshoeing
+4206,4206,LAVO,Swimming
+4207,4207,LAVO,Freshwater Swimming
+4208,4208,LAVO,Wildlife Watching
+4209,4209,LAVO,Birdwatching
+4210,4210,LAVO,Park Film
+4211,4211,LAVO,Museum Exhibits
+4212,4212,LAVO,Shopping
+4213,4213,LAVO,Bookstore and Park Store
+4214,4214,LAVO,Gift Shop and Souvenirs
+4424,4424,MACA,Astronomy
+4425,4425,MACA,Stargazing
+4426,4426,MACA,Biking
+4427,4427,MACA,Boating
+4428,4428,MACA,Camping
+4429,4429,MACA,Backcountry Camping
+4430,4430,MACA,Canoe or Kayak Camping
+4431,4431,MACA,Car or Front Country Camping
+4432,4432,MACA,Horse Camping (see also Horse/Stock Use)
+4433,4433,MACA,Group Camping
+4434,4434,MACA,RV Camping
+4435,4435,MACA,Caving
+4436,4436,MACA,Fishing
+4437,4437,MACA,Freshwater Fishing
+4438,4438,MACA,Food
+4439,4439,MACA,Dining
+4440,4440,MACA,Picnicking
+4441,4441,MACA,Guided Tours
+4442,4442,MACA,Self-Guided Tours - Walking
+4443,4443,MACA,Hands-On
+4444,4444,MACA,Hiking
+4445,4445,MACA,Backcountry Hiking
+4446,4446,MACA,Front-Country Hiking
+4447,4447,MACA,Horse Trekking
+4448,4448,MACA,Horse Camping (see also camping)
+4449,4449,MACA,Horseback Riding
+4450,4450,MACA,Paddling
+4451,4451,MACA,Canoeing
+4452,4452,MACA,Canoe or Kayak Camping
+4453,4453,MACA,Kayaking
+4454,4454,MACA,Junior Ranger Program
+4455,4455,MACA,Wildlife Watching
+4456,4456,MACA,Park Film
+4457,4457,MACA,Shopping
+4458,4458,MACA,Bookstore and Park Store
+4544,4544,MEVE,Auto and ATV
+4545,4545,MEVE,Scenic Driving
+4546,4546,MEVE,Astronomy
+4547,4547,MEVE,Stargazing
+4548,4548,MEVE,Biking
+4549,4549,MEVE,Road Biking
+4550,4550,MEVE,Camping
+4551,4551,MEVE,Food
+4552,4552,MEVE,Guided Tours
+4553,4553,MEVE,Hiking
+4554,4554,MEVE,Junior Ranger Program
+4555,4555,MEVE,Skiing
+4556,4556,MEVE,Cross-Country Skiing
+4557,4557,MEVE,Snowshoeing
+4558,4558,MEVE,Wildlife Watching
+4559,4559,MEVE,Birdwatching
+4560,4560,MEVE,Park Film
+4561,4561,MEVE,Museum Exhibits
+4562,4562,MEVE,Shopping
+4563,4563,MEVE,Bookstore and Park Store
+4764,4764,MORA,Auto and ATV
+4765,4765,MORA,Scenic Driving
+4766,4766,MORA,Astronomy
+4767,4767,MORA,Stargazing
+4768,4768,MORA,Biking
+4769,4769,MORA,Camping
+4770,4770,MORA,Backcountry Camping
+4771,4771,MORA,Car or Front Country Camping
+4772,4772,MORA,Group Camping
+4773,4773,MORA,Climbing
+4774,4774,MORA,Mountain Climbing
+4775,4775,MORA,Fishing
+4776,4776,MORA,Freshwater Fishing
+4777,4777,MORA,Food
+4778,4778,MORA,Dining
+4779,4779,MORA,Picnicking
+4780,4780,MORA,Guided Tours
+4781,4781,MORA,Self-Guided Tours - Walking
+4782,4782,MORA,Self-Guided Tours - Auto
+4783,4783,MORA,Hands-On
+4784,4784,MORA,Citizen Science
+4785,4785,MORA,Hiking
+4786,4786,MORA,Backcountry Hiking
+4787,4787,MORA,Front-Country Hiking
+4788,4788,MORA,Living History
+4789,4789,MORA,Junior Ranger Program
+4790,4790,MORA,Skiing
+4791,4791,MORA,Snow Play
+4792,4792,MORA,Snowmobiling
+4793,4793,MORA,Snowshoeing
+4794,4794,MORA,Wildlife Watching
+4795,4795,MORA,Birdwatching
+4796,4796,MORA,Park Film
+4797,4797,MORA,Museum Exhibits
+4798,4798,MORA,Shopping
+4799,4799,MORA,Bookstore and Park Store
+4877,4877,NPSA,Arts and Culture
+4878,4878,NPSA,Live Music
+4879,4879,NPSA,Hands-On
+4880,4880,NPSA,Volunteer Vacation
+4881,4881,NPSA,Hiking
+4882,4882,NPSA,Backcountry Hiking
+4883,4883,NPSA,Front-Country Hiking
+4884,4884,NPSA,Off-Trail Permitted Hiking
+4885,4885,NPSA,Living History
+4886,4886,NPSA,Historic Weapons Demonstration
+4887,4887,NPSA,First Person Interpretation
+4888,4888,NPSA,SCUBA Diving
+4889,4889,NPSA,Snorkeling
+4890,4890,NPSA,Swimming
+4891,4891,NPSA,Saltwater Swimming
+4892,4892,NPSA,Wildlife Watching
+4893,4893,NPSA,Birdwatching
+4894,4894,NPSA,Museum Exhibits
+4895,4895,NPSA,Shopping
+4896,4896,NPSA,Bookstore and Park Store
+4897,4897,NPSA,Gift Shop and Souvenirs
+4977,4977,NESE,Arts and Culture
+4978,4978,NESE,Theater
+4979,4979,NESE,Auto and ATV
+4980,4980,NESE,Scenic Driving
+4981,4981,NESE,Astronomy
+4982,4982,NESE,Biking
+4983,4983,NESE,Mountain Biking
+4984,4984,NESE,Road Biking
+4985,4985,NESE,Boating
+4986,4986,NESE,Camping
+4987,4987,NESE,Backcountry Camping
+4988,4988,NESE,Canoe or Kayak Camping
+4989,4989,NESE,Car or Front Country Camping
+4990,4990,NESE,Group Camping
+4991,4991,NESE,RV Camping
+4992,4992,NESE,Climbing
+4993,4993,NESE,Rock Climbing
+4994,4994,NESE,Fishing
+4995,4995,NESE,Freshwater Fishing
+4996,4996,NESE,Fly Fishing
+4997,4997,NESE,Food
+4998,4998,NESE,Picnicking
+4999,4999,NESE,Guided Tours
+5000,5000,NESE,Self-Guided Tours - Walking
+5001,5001,NESE,Self-Guided Tours - Auto
+5002,5002,NESE,Hiking
+5003,5003,NESE,Backcountry Hiking
+5004,5004,NESE,Front-Country Hiking
+5005,5005,NESE,Horse Trekking
+5006,5006,NESE,Horseback Riding
+5007,5007,NESE,Hunting and Gathering
+5008,5008,NESE,Hunting
+5009,5009,NESE,Paddling
+5010,5010,NESE,Canoeing
+5011,5011,NESE,Canoe or Kayak Camping
+5012,5012,NESE,Kayaking
+5013,5013,NESE,Stand Up Paddleboarding
+5014,5014,NESE,Whitewater Rafting
+5015,5015,NESE,Junior Ranger Program
+5016,5016,NESE,Playground
+5017,5017,NESE,Wildlife Watching
+5018,5018,NESE,Birdwatching
+5019,5019,NESE,Park Film
+5020,5020,NESE,Museum Exhibits
+5021,5021,NESE,Shopping
+5022,5022,NESE,Bookstore and Park Store
+5099,5099,NOCA,Auto and ATV
+5100,5100,NOCA,Scenic Driving
+5101,5101,NOCA,Biking
+5102,5102,NOCA,Road Biking
+5103,5103,NOCA,Boating
+5104,5104,NOCA,Motorized Boating
+5105,5105,NOCA,Boat Tour
+5106,5106,NOCA,Camping
+5107,5107,NOCA,Backcountry Camping
+5108,5108,NOCA,Canoe or Kayak Camping
+5109,5109,NOCA,Car or Front Country Camping
+5110,5110,NOCA,Horse Camping (see also Horse/Stock Use)
+5111,5111,NOCA,Group Camping
+5112,5112,NOCA,RV Camping
+5113,5113,NOCA,Climbing
+5114,5114,NOCA,Rock Climbing
+5115,5115,NOCA,Fishing
+5116,5116,NOCA,Guided Tours
+5117,5117,NOCA,Bus/Shuttle Guided Tour
+5118,5118,NOCA,Hands-On
+5119,5119,NOCA,Citizen Science
+5120,5120,NOCA,Hiking
+5121,5121,NOCA,Front-Country Hiking
+5122,5122,NOCA,Horse Trekking
+5123,5123,NOCA,Horseback Riding
+5124,5124,NOCA,Paddling
+5125,5125,NOCA,Canoe or Kayak Camping
+5126,5126,NOCA,Junior Ranger Program
+5127,5127,NOCA,Shopping
+5128,5128,NOCA,Bookstore and Park Store
+5185,5185,OLYM,Astronomy
+5186,5186,OLYM,Stargazing
+5187,5187,OLYM,Biking
+5188,5188,OLYM,Road Biking
+5189,5189,OLYM,Boating
+5190,5190,OLYM,Camping
+5191,5191,OLYM,Backcountry Camping
+5192,5192,OLYM,Car or Front Country Camping
+5193,5193,OLYM,Horse Camping (see also Horse/Stock Use)
+5194,5194,OLYM,Group Camping
+5195,5195,OLYM,RV Camping
+5196,5196,OLYM,Climbing
+5197,5197,OLYM,Mountain Climbing
+5198,5198,OLYM,Fishing
+5199,5199,OLYM,Freshwater Fishing
+5200,5200,OLYM,Fly Fishing
+5201,5201,OLYM,Saltwater Fishing
+5202,5202,OLYM,Food
+5203,5203,OLYM,Dining
+5204,5204,OLYM,Picnicking
+5205,5205,OLYM,Guided Tours
+5206,5206,OLYM,Self-Guided Tours - Auto
+5207,5207,OLYM,Hands-On
+5208,5208,OLYM,Citizen Science
+5209,5209,OLYM,Arts and Crafts
+5210,5210,OLYM,Volunteer Vacation
+5211,5211,OLYM,Hiking
+5212,5212,OLYM,Backcountry Hiking
+5213,5213,OLYM,Front-Country Hiking
+5214,5214,OLYM,Horse Trekking
+5215,5215,OLYM,Horse Camping (see also camping)
+5216,5216,OLYM,Paddling
+5217,5217,OLYM,Canoeing
+5218,5218,OLYM,Kayaking
+5219,5219,OLYM,Junior Ranger Program
+5220,5220,OLYM,Tubing
+5221,5221,OLYM,Snow Tubing
+5222,5222,OLYM,Skiing
+5223,5223,OLYM,Cross-Country Skiing
+5224,5224,OLYM,Downhill Skiing
+5225,5225,OLYM,Snow Play
+5226,5226,OLYM,Snowshoeing
+5227,5227,OLYM,Surfing
+5228,5228,OLYM,Swimming
+5229,5229,OLYM,Pool Swimming
+5230,5230,OLYM,Freshwater Swimming
+5231,5231,OLYM,Saltwater Swimming
+5232,5232,OLYM,Wildlife Watching
+5233,5233,OLYM,Birdwatching
+5234,5234,OLYM,Park Film
+5235,5235,OLYM,Museum Exhibits
+5236,5236,OLYM,Shopping
+5237,5237,OLYM,Bookstore and Park Store
+5238,5238,OLYM,Gift Shop and Souvenirs
+5504,5504,PEFO,Arts and Culture
+5505,5505,PEFO,Cultural Demonstrations
+5506,5506,PEFO,Auto and ATV
+5507,5507,PEFO,Scenic Driving
+5508,5508,PEFO,Astronomy
+5509,5509,PEFO,Stargazing
+5510,5510,PEFO,Biking
+5511,5511,PEFO,Road Biking
+5512,5512,PEFO,Camping
+5513,5513,PEFO,Backcountry Camping
+5514,5514,PEFO,Horse Camping (see also Horse/Stock Use)
+5515,5515,PEFO,Compass and GPS
+5516,5516,PEFO,Geocaching
+5517,5517,PEFO,Orienteering
+5518,5518,PEFO,Food
+5519,5519,PEFO,Dining
+5520,5520,PEFO,Picnicking
+5521,5521,PEFO,Guided Tours
+5522,5522,PEFO,Self-Guided Tours - Walking
+5523,5523,PEFO,Self-Guided Tours - Auto
+5524,5524,PEFO,Hands-On
+5525,5525,PEFO,Citizen Science
+5526,5526,PEFO,Hiking
+5527,5527,PEFO,Backcountry Hiking
+5528,5528,PEFO,Front-Country Hiking
+5529,5529,PEFO,Off-Trail Permitted Hiking
+5530,5530,PEFO,Horse Trekking
+5531,5531,PEFO,Horse Camping (see also camping)
+5532,5532,PEFO,Horseback Riding
+5533,5533,PEFO,Junior Ranger Program
+5534,5534,PEFO,Wildlife Watching
+5535,5535,PEFO,Birdwatching
+5536,5536,PEFO,Park Film
+5537,5537,PEFO,Museum Exhibits
+5538,5538,PEFO,Shopping
+5539,5539,PEFO,Bookstore and Park Store
+5540,5540,PEFO,Gift Shop and Souvenirs
+5600,5600,PINN,Astronomy
+5601,5601,PINN,Stargazing
+5602,5602,PINN,Biking
+5603,5603,PINN,Road Biking
+5604,5604,PINN,Camping
+5605,5605,PINN,Car or Front Country Camping
+5606,5606,PINN,Group Camping
+5607,5607,PINN,RV Camping
+5608,5608,PINN,Caving
+5609,5609,PINN,Climbing
+5610,5610,PINN,Rock Climbing
+5611,5611,PINN,Food
+5612,5612,PINN,Picnicking
+5613,5613,PINN,Hands-On
+5614,5614,PINN,Citizen Science
+5615,5615,PINN,Volunteer Vacation
+5616,5616,PINN,Hiking
+5617,5617,PINN,Backcountry Hiking
+5618,5618,PINN,Front-Country Hiking
+5619,5619,PINN,Junior Ranger Program
+5620,5620,PINN,Wildlife Watching
+5621,5621,PINN,Birdwatching
+5622,5622,PINN,Park Film
+5623,5623,PINN,Shopping
+5624,5624,PINN,Bookstore and Park Store
+5625,5625,PINN,Gift Shop and Souvenirs
+5828,5828,REDW,Arts and Culture
+5829,5829,REDW,Cultural Demonstrations
+5830,5830,REDW,Auto and ATV
+5831,5831,REDW,Scenic Driving
+5832,5832,REDW,Biking
+5833,5833,REDW,Mountain Biking
+5834,5834,REDW,Road Biking
+5835,5835,REDW,Camping
+5836,5836,REDW,Backcountry Camping
+5837,5837,REDW,Car or Front Country Camping
+5838,5838,REDW,Horse Camping (see also Horse/Stock Use)
+5839,5839,REDW,RV Camping
+5840,5840,REDW,Fishing
+5841,5841,REDW,Saltwater Fishing
+5842,5842,REDW,Food
+5843,5843,REDW,Picnicking
+5844,5844,REDW,Guided Tours
+5845,5845,REDW,Self-Guided Tours - Walking
+5846,5846,REDW,Self-Guided Tours - Auto
+5847,5847,REDW,Hiking
+5848,5848,REDW,Backcountry Hiking
+5849,5849,REDW,Front-Country Hiking
+5850,5850,REDW,Horse Trekking
+5851,5851,REDW,Horse Camping (see also camping)
+5852,5852,REDW,Horseback Riding
+5853,5853,REDW,Paddling
+5854,5854,REDW,Canoeing
+5855,5855,REDW,Kayaking
+5856,5856,REDW,Stand Up Paddleboarding
+5857,5857,REDW,Whitewater Rafting
+5858,5858,REDW,Junior Ranger Program
+5859,5859,REDW,Surfing
+5860,5860,REDW,Swimming
+5861,5861,REDW,Saltwater Swimming
+5862,5862,REDW,Wildlife Watching
+5863,5863,REDW,Birdwatching
+5864,5864,REDW,Park Film
+5865,5865,REDW,Shopping
+5866,5866,REDW,Bookstore and Park Store
+5960,5960,ROMO,Arts and Culture
+5961,5961,ROMO,Auto and ATV
+5962,5962,ROMO,Scenic Driving
+5963,5963,ROMO,Astronomy
+5964,5964,ROMO,Stargazing
+5965,5965,ROMO,Camping
+5966,5966,ROMO,Backcountry Camping
+5967,5967,ROMO,Car or Front Country Camping
+5968,5968,ROMO,Group Camping
+5969,5969,ROMO,RV Camping
+5970,5970,ROMO,Climbing
+5971,5971,ROMO,Fishing
+5972,5972,ROMO,Hiking
+5973,5973,ROMO,Junior Ranger Program
+5974,5974,ROMO,Skiing
+5975,5975,ROMO,Cross-Country Skiing
+5976,5976,ROMO,Snow Play
+5977,5977,ROMO,Snowshoeing
+5978,5978,ROMO,Wildlife Watching
+5979,5979,ROMO,Park Film
+5980,5980,ROMO,Shopping
+5981,5981,ROMO,Bookstore and Park Store
+6039,6039,SAGU,Arts and Culture
+6040,6040,SAGU,Auto and ATV
+6041,6041,SAGU,Scenic Driving
+6042,6042,SAGU,Astronomy
+6043,6043,SAGU,Stargazing
+6044,6044,SAGU,Biking
+6045,6045,SAGU,Camping
+6046,6046,SAGU,Backcountry Camping
+6047,6047,SAGU,Guided Tours
+6048,6048,SAGU,Hiking
+6049,6049,SAGU,Backcountry Hiking
+6050,6050,SAGU,Front-Country Hiking
+6051,6051,SAGU,Junior Ranger Program
+6052,6052,SAGU,Park Film
+6305,6305,SEQU,Auto and ATV
+6306,6306,SEQU,Scenic Driving
+6307,6307,SEQU,Astronomy
+6308,6308,SEQU,Stargazing
+6309,6309,SEQU,Camping
+6310,6310,SEQU,Backcountry Camping
+6311,6311,SEQU,Car or Front Country Camping
+6312,6312,SEQU,Horse Camping (see also Horse/Stock Use)
+6313,6313,SEQU,Group Camping
+6314,6314,SEQU,RV Camping
+6315,6315,SEQU,Caving
+6316,6316,SEQU,Climbing
+6317,6317,SEQU,Rock Climbing
+6318,6318,SEQU,Fishing
+6319,6319,SEQU,Freshwater Fishing
+6320,6320,SEQU,Fly Fishing
+6321,6321,SEQU,Food
+6322,6322,SEQU,Dining
+6323,6323,SEQU,Picnicking
+6324,6324,SEQU,Guided Tours
+6325,6325,SEQU,Hands-On
+6326,6326,SEQU,Citizen Science
+6327,6327,SEQU,Hiking
+6328,6328,SEQU,Backcountry Hiking
+6329,6329,SEQU,Front-Country Hiking
+6330,6330,SEQU,Horse Trekking
+6331,6331,SEQU,Horseback Riding
+6332,6332,SEQU,Junior Ranger Program
+6333,6333,SEQU,Skiing
+6334,6334,SEQU,Cross-Country Skiing
+6335,6335,SEQU,Snow Play
+6336,6336,SEQU,Snowshoeing
+6337,6337,SEQU,Wildlife Watching
+6338,6338,SEQU,Birdwatching
+6339,6339,SEQU,Park Film
+6340,6340,SEQU,Museum Exhibits
+6341,6341,SEQU,Shopping
+6342,6342,SEQU,Bookstore and Park Store
+6343,6343,SEQU,Gift Shop and Souvenirs
+6344,6344,SHEN,Auto and ATV
+6345,6345,SHEN,Scenic Driving
+6346,6346,SHEN,Astronomy
+6347,6347,SHEN,Stargazing
+6348,6348,SHEN,Biking
+6349,6349,SHEN,Road Biking
+6350,6350,SHEN,Camping
+6351,6351,SHEN,Backcountry Camping
+6352,6352,SHEN,Car or Front Country Camping
+6353,6353,SHEN,Group Camping
+6354,6354,SHEN,RV Camping
+6355,6355,SHEN,Climbing
+6356,6356,SHEN,Rock Climbing
+6357,6357,SHEN,Compass and GPS
+6358,6358,SHEN,Geocaching
+6359,6359,SHEN,Fishing
+6360,6360,SHEN,Food
+6361,6361,SHEN,Dining
+6362,6362,SHEN,Picnicking
+6363,6363,SHEN,Hands-On
+6364,6364,SHEN,Citizen Science
+6365,6365,SHEN,Hiking
+6366,6366,SHEN,Horse Trekking
+6367,6367,SHEN,Horseback Riding
+6368,6368,SHEN,Hunting and Gathering
+6369,6369,SHEN,Gathering and Foraging
+6370,6370,SHEN,Junior Ranger Program
+6371,6371,SHEN,Wildlife Watching
+6372,6372,SHEN,Birdwatching
+6373,6373,SHEN,Museum Exhibits
+6374,6374,SHEN,Shopping
+6375,6375,SHEN,Bookstore and Park Store
+6376,6376,SHEN,Gift Shop and Souvenirs
+6612,6612,THRO,Auto and ATV
+6613,6613,THRO,Scenic Driving
+6614,6614,THRO,Astronomy
+6615,6615,THRO,Stargazing
+6616,6616,THRO,Biking
+6617,6617,THRO,Road Biking
+6618,6618,THRO,Camping
+6619,6619,THRO,Backcountry Camping
+6620,6620,THRO,Car or Front Country Camping
+6621,6621,THRO,Horse Camping (see also Horse/Stock Use)
+6622,6622,THRO,Group Camping
+6623,6623,THRO,Food
+6624,6624,THRO,Picnicking
+6625,6625,THRO,Guided Tours
+6626,6626,THRO,Self-Guided Tours - Walking
+6627,6627,THRO,Hiking
+6628,6628,THRO,Backcountry Hiking
+6629,6629,THRO,Front-Country Hiking
+6630,6630,THRO,Off-Trail Permitted Hiking
+6631,6631,THRO,Horse Trekking
+6632,6632,THRO,Horse Camping (see also camping)
+6633,6633,THRO,Junior Ranger Program
+6634,6634,THRO,Wildlife Watching
+6635,6635,THRO,Birdwatching
+6636,6636,THRO,Park Film
+6637,6637,THRO,Museum Exhibits
+6638,6638,THRO,Shopping
+6639,6639,THRO,Bookstore and Park Store
+6901,6901,VIIS,Arts and Culture
+6902,6902,VIIS,Craft Demonstrations
+6903,6903,VIIS,Cultural Demonstrations
+6904,6904,VIIS,Astronomy
+6905,6905,VIIS,Stargazing
+6906,6906,VIIS,Boating
+6907,6907,VIIS,Motorized Boating
+6908,6908,VIIS,Sailing
+6909,6909,VIIS,Camping
+6910,6910,VIIS,Car or Front Country Camping
+6911,6911,VIIS,Fishing
+6912,6912,VIIS,Fly Fishing
+6913,6913,VIIS,Saltwater Fishing
+6914,6914,VIIS,Food
+6915,6915,VIIS,Picnicking
+6916,6916,VIIS,Guided Tours
+6917,6917,VIIS,Self-Guided Tours - Walking
+6918,6918,VIIS,Hiking
+6919,6919,VIIS,Backcountry Hiking
+6920,6920,VIIS,Front-Country Hiking
+6921,6921,VIIS,Paddling
+6922,6922,VIIS,Kayaking
+6923,6923,VIIS,Stand Up Paddleboarding
+6924,6924,VIIS,SCUBA Diving
+6925,6925,VIIS,Snorkeling
+6926,6926,VIIS,Swimming
+6927,6927,VIIS,Saltwater Swimming
+6928,6928,VIIS,Wildlife Watching
+6929,6929,VIIS,Birdwatching
+6930,6930,VIIS,Shopping
+6931,6931,VIIS,Bookstore and Park Store
+6932,6932,VOYA,Arts and Culture
+6933,6933,VOYA,Cultural Demonstrations
+6934,6934,VOYA,Astronomy
+6935,6935,VOYA,Stargazing
+6936,6936,VOYA,Biking
+6937,6937,VOYA,Boating
+6938,6938,VOYA,Motorized Boating
+6939,6939,VOYA,Sailing
+6940,6940,VOYA,Boat Tour
+6941,6941,VOYA,Camping
+6942,6942,VOYA,Backcountry Camping
+6943,6943,VOYA,Canoe or Kayak Camping
+6944,6944,VOYA,Group Camping
+6945,6945,VOYA,RV Camping
+6946,6946,VOYA,Fishing
+6947,6947,VOYA,Freshwater Fishing
+6948,6948,VOYA,Food
+6949,6949,VOYA,Dining
+6950,6950,VOYA,Picnicking
+6951,6951,VOYA,Guided Tours
+6952,6952,VOYA,Self-Guided Tours - Walking
+6953,6953,VOYA,Boat Tour
+6954,6954,VOYA,Hiking
+6955,6955,VOYA,Backcountry Hiking
+6956,6956,VOYA,Front-Country Hiking
+6957,6957,VOYA,Living History
+6958,6958,VOYA,Reenactments
+6959,6959,VOYA,Paddling
+6960,6960,VOYA,Canoeing
+6961,6961,VOYA,Canoe or Kayak Camping
+6962,6962,VOYA,Kayaking
+6963,6963,VOYA,Junior Ranger Program
+6964,6964,VOYA,Tubing
+6965,6965,VOYA,Snow Tubing
+6966,6966,VOYA,Skiing
+6967,6967,VOYA,Cross-Country Skiing
+6968,6968,VOYA,Snowmobiling
+6969,6969,VOYA,Snowshoeing
+6970,6970,VOYA,Swimming
+6971,6971,VOYA,Freshwater Swimming
+6972,6972,VOYA,Water Skiing
+6973,6973,VOYA,Wildlife Watching
+6974,6974,VOYA,Birdwatching
+6975,6975,VOYA,Park Film
+6976,6976,VOYA,Museum Exhibits
+6977,6977,VOYA,Shopping
+6978,6978,VOYA,Bookstore and Park Store
+6979,6979,VOYA,Gift Shop and Souvenirs
+7069,7069,WHSA,Auto and ATV
+7070,7070,WHSA,Scenic Driving
+7071,7071,WHSA,Biking
+7072,7072,WHSA,Road Biking
+7073,7073,WHSA,Camping
+7074,7074,WHSA,Backcountry Camping
+7075,7075,WHSA,Food
+7076,7076,WHSA,Picnicking
+7077,7077,WHSA,Guided Tours
+7078,7078,WHSA,Hiking
+7079,7079,WHSA,Junior Ranger Program
+7102,7102,WIND,Arts and Culture
+7103,7103,WIND,Cultural Demonstrations
+7104,7104,WIND,Live Music
+7105,7105,WIND,Auto and ATV
+7106,7106,WIND,Scenic Driving
+7107,7107,WIND,Biking
+7108,7108,WIND,Road Biking
+7109,7109,WIND,Food
+7110,7110,WIND,Picnicking
+7111,7111,WIND,Guided Tours
+7112,7112,WIND,Self-Guided Tours - Walking
+7113,7113,WIND,Self-Guided Tours - Auto
+7114,7114,WIND,Hiking
+7115,7115,WIND,Front-Country Hiking
+7116,7116,WIND,Horse Trekking
+7117,7117,WIND,Horseback Riding
+7118,7118,WIND,Living History
+7119,7119,WIND,Historic Weapons Demonstration
+7120,7120,WIND,First Person Interpretation
+7121,7121,WIND,Junior Ranger Program
+7122,7122,WIND,Wildlife Watching
+7123,7123,WIND,Birdwatching
+7124,7124,WIND,Park Film
+7125,7125,WIND,Museum Exhibits
+7126,7126,WIND,Shopping
+7127,7127,WIND,Bookstore and Park Store
+7128,7128,WIND,Gift Shop and Souvenirs
+7160,7160,WOTR,Arts and Culture
+7161,7161,WOTR,Live Music
+7162,7162,WOTR,Theater
+7163,7163,WOTR,Food
+7164,7164,WOTR,Picnicking
+7165,7165,WOTR,Guided Tours
+7166,7166,WOTR,Hiking
+7167,7167,WOTR,Junior Ranger Program
+7177,7177,WRST,Arts and Culture
+7178,7178,WRST,Auto and ATV
+7179,7179,WRST,ATV Off-Roading
+7180,7180,WRST,Auto Off-Roading
+7181,7181,WRST,Scenic Driving
+7182,7182,WRST,Biking
+7183,7183,WRST,Mountain Biking
+7184,7184,WRST,Boating
+7185,7185,WRST,Camping
+7186,7186,WRST,Backcountry Camping
+7187,7187,WRST,Canoe or Kayak Camping
+7188,7188,WRST,Car or Front Country Camping
+7189,7189,WRST,Group Camping
+7190,7190,WRST,RV Camping
+7191,7191,WRST,Canyoneering
+7192,7192,WRST,Climbing
+7193,7193,WRST,Mountain Climbing
+7194,7194,WRST,Fishing
+7195,7195,WRST,Freshwater Fishing
+7196,7196,WRST,Fly Fishing
+7197,7197,WRST,Saltwater Fishing
+7198,7198,WRST,Food
+7199,7199,WRST,Dining
+7200,7200,WRST,Picnicking
+7201,7201,WRST,Flying
+7202,7202,WRST,Fixed Wing Flying
+7203,7203,WRST,Guided Tours
+7204,7204,WRST,Self-Guided Tours - Walking
+7205,7205,WRST,Self-Guided Tours - Auto
+7206,7206,WRST,Hiking
+7207,7207,WRST,Backcountry Hiking
+7208,7208,WRST,Front-Country Hiking
+7209,7209,WRST,Hunting and Gathering
+7210,7210,WRST,Gathering and Foraging
+7211,7211,WRST,Hunting
+7212,7212,WRST,Paddling
+7213,7213,WRST,Whitewater Rafting
+7214,7214,WRST,Junior Ranger Program
+7215,7215,WRST,Snowmobiling
+7216,7216,WRST,Snowshoeing
+7217,7217,WRST,Wildlife Watching
+7218,7218,WRST,Birdwatching
+7219,7219,WRST,Park Film
+7220,7220,WRST,Museum Exhibits
+7221,7221,WRST,Shopping
+7222,7222,WRST,Bookstore and Park Store
+7247,7247,YELL,Arts and Culture
+7248,7248,YELL,Auto and ATV
+7249,7249,YELL,Scenic Driving
+7250,7250,YELL,Astronomy
+7251,7251,YELL,Biking
+7252,7252,YELL,Mountain Biking
+7253,7253,YELL,Road Biking
+7254,7254,YELL,Boating
+7255,7255,YELL,Boat Tour
+7256,7256,YELL,Camping
+7257,7257,YELL,Backcountry Camping
+7258,7258,YELL,Canoe or Kayak Camping
+7259,7259,YELL,Car or Front Country Camping
+7260,7260,YELL,Horse Camping (see also Horse/Stock Use)
+7261,7261,YELL,Group Camping
+7262,7262,YELL,RV Camping
+7263,7263,YELL,Fishing
+7264,7264,YELL,Freshwater Fishing
+7265,7265,YELL,Fly Fishing
+7266,7266,YELL,Food
+7267,7267,YELL,Dining
+7268,7268,YELL,Picnicking
+7269,7269,YELL,Guided Tours
+7270,7270,YELL,Self-Guided Tours - Walking
+7271,7271,YELL,Self-Guided Tours - Auto
+7272,7272,YELL,Bus/Shuttle Guided Tour
+7273,7273,YELL,Boat Tour
+7274,7274,YELL,Hands-On
+7275,7275,YELL,Arts and Crafts
+7276,7276,YELL,Volunteer Vacation
+7277,7277,YELL,Hiking
+7278,7278,YELL,Backcountry Hiking
+7279,7279,YELL,Front-Country Hiking
+7280,7280,YELL,Horse Trekking
+7281,7281,YELL,Horseback Riding
+7282,7282,YELL,Paddling
+7283,7283,YELL,Canoeing
+7284,7284,YELL,Canoe or Kayak Camping
+7285,7285,YELL,Kayaking
+7286,7286,YELL,Junior Ranger Program
+7287,7287,YELL,Skiing
+7288,7288,YELL,Cross-Country Skiing
+7289,7289,YELL,Snow Play
+7290,7290,YELL,Snowmobiling
+7291,7291,YELL,Snowshoeing
+7292,7292,YELL,Swimming
+7293,7293,YELL,Wildlife Watching
+7294,7294,YELL,Birdwatching
+7295,7295,YELL,Park Film
+7296,7296,YELL,Museum Exhibits
+7297,7297,YELL,Shopping
+7298,7298,YELL,Bookstore and Park Store
+7299,7299,YELL,Gift Shop and Souvenirs
+7321,7321,YOSE,Arts and Culture
+7322,7322,YOSE,Auto and ATV
+7323,7323,YOSE,Scenic Driving
+7324,7324,YOSE,Astronomy
+7325,7325,YOSE,Biking
+7326,7326,YOSE,Boating
+7327,7327,YOSE,Camping
+7328,7328,YOSE,Backcountry Camping
+7329,7329,YOSE,Climbing
+7330,7330,YOSE,Fishing
+7331,7331,YOSE,Food
+7332,7332,YOSE,Guided Tours
+7333,7333,YOSE,Hands-On
+7334,7334,YOSE,Hiking
+7335,7335,YOSE,Backcountry Hiking
+7336,7336,YOSE,Horse Trekking
+7337,7337,YOSE,Horseback Riding
+7338,7338,YOSE,Ice Skating
+7339,7339,YOSE,Living History
+7340,7340,YOSE,Paddling
+7341,7341,YOSE,Junior Ranger Program
+7342,7342,YOSE,Tubing
+7343,7343,YOSE,Snow Tubing
+7344,7344,YOSE,Skiing
+7345,7345,YOSE,Snow Play
+7346,7346,YOSE,Snowshoeing
+7347,7347,YOSE,Swimming
+7348,7348,YOSE,Wildlife Watching
+7349,7349,YOSE,Birdwatching
+7350,7350,YOSE,Park Film
+7351,7351,YOSE,Museum Exhibits
+7352,7352,YOSE,Shopping
+7353,7353,YOSE,Bookstore and Park Store
+7377,7377,ZION,Arts and Culture
+7378,7378,ZION,Astronomy
+7379,7379,ZION,Stargazing
+7380,7380,ZION,Biking
+7381,7381,ZION,Road Biking
+7382,7382,ZION,Camping
+7383,7383,ZION,Backcountry Camping
+7384,7384,ZION,Car or Front Country Camping
+7385,7385,ZION,Horse Camping (see also Horse/Stock Use)
+7386,7386,ZION,Canyoneering
+7387,7387,ZION,Climbing
+7388,7388,ZION,Rock Climbing
+7389,7389,ZION,Guided Tours
+7390,7390,ZION,Hiking
+7391,7391,ZION,Front-Country Hiking
+7392,7392,ZION,Junior Ranger Program
+7393,7393,ZION,Wildlife Watching
+7394,7394,ZION,Birdwatching
+7395,7395,ZION,Park Film
+7396,7396,ZION,Museum Exhibits
+7397,7397,ZION,Shopping
+7398,7398,ZION,Bookstore and Park Store
